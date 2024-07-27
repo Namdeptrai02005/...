@@ -1,0 +1,63 @@
+Load_weapon.Name = "Load_weapon"
+
+Load_weapon.Parent = Farm
+
+Load_weapon.BackgroundColor3 = Color3.new(1, 1, 1)
+
+Load_weapon.BorderSizePixel = 0
+
+Load_weapon.Position = UDim2.new(0.129629627, 0, 0.300613493, 0)
+
+Load_weapon.Size = UDim2.new(0, 200, 0, 28)
+
+Load_weapon.Font = Enum.Font.SourceSans
+
+Load_weapon.Text = "Discord: _hwan.infors"
+
+Load_weapon.TextColor3 = Color3.new(0, 0, 0)
+
+Load_weapon.TextSize = 14
+
+
+
+Equipweapon.Name = "Equipweapon"
+
+Equipweapon.Parent = Farm
+
+Equipweapon.BackgroundColor3 = Color3.new(1, 1, 1)
+
+Equipweapon.BorderSizePixel = 0
+
+Equipweapon.Position = UDim2.new(0.129629627, 0, 0.426380366, 0)
+
+Equipweapon.Size = UDim2.new(0, 200, 0, 28)
+
+Equipweapon.Font = Enum.Font.SourceSans
+
+Equipweapon.Text = "Auto Equip"
+
+Equipweapon.TextColor3 = Color3.new(0, 0, 0)
+
+Equipweapon.TextSize = 14
+
+
+
+Farmweapon.Name = "Farmweapon"
+
+Farmweapon.Parent = Farm
+
+Farmweapon.BackgroundColor3 = Color3.new(1, 1, 1)
+
+Farmweapon.BorderSizePixel = 0
+
+Farmweapon.Position = UDim2.new(0.129629627, 0, 0.552147269, 0)
+
+Farmweapon.Size = UDim2.new(0, 200, 0, 28)
+
+Farmweapon.Font = Enum.Font.SourceSans
+
+Farmweapon.Text = "Auto Click"
+
+Farmweapon.TextColor3 = Color3.new(0, 0, 0)
+
+Farmweapon.TextSize = 14
